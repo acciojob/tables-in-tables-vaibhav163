@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 th, td, table{
-	border:1px solid black;
+	border:2px solid black;
 }
 th{
 	column-width:100%
